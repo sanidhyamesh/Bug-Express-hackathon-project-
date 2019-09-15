@@ -1,0 +1,77 @@
+body{      	
+	font-family:  'Libre Franklin', sans-serif;
+	color: white; 
+}
+html{
+	height: 100%;
+}
+.box{
+    height: 200px;
+    width: 300px;
+    color: black;
+    font-size: 2em;
+    text-align: center;
+  }
+.fas.fa-coins, .fas.fa-users, .fas.fa-industry{
+  color: black;
+}
+#carousel{
+    width: auto;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#carouselActive{
+    height: 800px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row{
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 60px;
+}
+.info{
+  color: black;
+  margin-left: 10px;
+  
+}
+#bgimage{
+ background: url(https://wallpapercave.com/wp/wp2465273.jpg);
+ background-size: cover;
+ background-position: center;
+}
+#content{
+ text-align: center;
+ padding-top: 25%;
+ padding-bottom: 25%;
+}
+h1,h3{
+ font-weight: 600;
+}
+hr{
+ color: white;
+ width: 540px;
+ border-top: 1px solid #f8f8f8;
+ border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+#div2{
+ text-align: center;
+ padding-bottom: 10%;
+ padding-top: 10%;
+}
+ #div2bg{
+ background-color: #B6E5C8;
+}
+#footer{
+  background-color: black;
+}
+#footer_content{
+  padding: 25px 250px 10px 250px;
+}
+.footer_head{
+  padding-top: 7px;
+  padding-bottom: 3px;
+}
